@@ -1,4 +1,3 @@
-# Python3.7+
 import socket
 
 HOST, PORT = '', 8888
